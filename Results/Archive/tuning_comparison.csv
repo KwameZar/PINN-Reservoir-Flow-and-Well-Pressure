@@ -1,0 +1,4 @@
+Model,Learning Rate,Loss Weights,MAE,RMSE,Maximum Error
+Baseline,0.001,1 : 1 : 1,0.00123506,0.00175672,0.01105121
+Weighted Loss,0.001,1 : 2 : 2,0.00141684,0.00173364,0.010269
+Lower Learning Rate,0.0005,1 : 1 : 1,0.00841326,0.00908776,0.02819875
